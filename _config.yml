@@ -16,10 +16,10 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 #repository: ityouknow/ityouknow.github.io
-repository: yuanxin881/yuanxin881.github.io
+repository: yuanxin881/preciouslove.github.io
 github_url: https://github.com/yuanxin881
-url: http://yuanxin881.github.io
-enforce_ssl: ityouknow.com
+url: http://preciouslove.github.io
+#enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
